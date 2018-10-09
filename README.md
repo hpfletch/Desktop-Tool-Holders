@@ -10,4 +10,4 @@ FreeCAD files also providee.
 
 Preview of laser cut pattern.
 
-alt text!("https://github.com/hpfletch/Images/blob/master/soldering%20iron%20tip%20holder.jpg")
+![alt text](https://github.com/hpfletch/Images/blob/master/soldering%20iron%20tip%20holder.jpg)
