@@ -21,6 +21,6 @@ Construced with 1/4 in. plywood. Drawn with FreeCAD.
 
 ![alt text](https://github.com/hpfletch/Images/blob/master/picture.jpg)
 
-![alt text](https://github.com/hpfletch/Images/blob/master/picture.jpg)
+![alt text](https://github.com/hpfletch/Images/blob/master/Capture.PNG)
 
 
